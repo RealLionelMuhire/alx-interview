@@ -1,6 +1,12 @@
 #!/usr/bin/python3
 
 def pascal_triangle(n):
+    """ Returns a list of lists of integers representing the Pascal’s triangle of n 
+        If n <= 0, return an empty list
+        Args: n (int): number of rows
+        Returns: list of lists of integers
+    """
+
     if n <= 0:
         return []
     pasc_tri = []
