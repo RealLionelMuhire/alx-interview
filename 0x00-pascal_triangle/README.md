@@ -1,1 +1,1 @@
-THis is about exercise of pascal triangle
+# Pascal Triangle
